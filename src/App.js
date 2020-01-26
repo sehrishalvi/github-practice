@@ -7,6 +7,7 @@ export default function App() {
       <h1>Hello github</h1>
       <h2>connecting github !</h2>
       <p>hello again</p>
+      <p>another paragraph</p>
     </div>
   );
 }
